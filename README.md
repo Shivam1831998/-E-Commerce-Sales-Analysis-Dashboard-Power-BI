@@ -39,3 +39,7 @@ This project analyzes the sales performance of an e-commerce store (BuyNex) usin
 - South region led in overall sales growth.
 - Age group 30–50 contributed the highest order volume.
 - Noticeable sales decline during COVID-19 (2020) followed by recovery trend.
+
+ 📈 Attachments:
+ - Raw Data .xlsx file.
+ - PowerBI dashboard .pbix file.
